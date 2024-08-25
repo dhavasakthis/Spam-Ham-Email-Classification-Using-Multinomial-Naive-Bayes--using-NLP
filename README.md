@@ -1,2 +1,4 @@
 # Spam-Ham-Email-Classification-Using-Multinomial-Naive-Bayes--using-NLP
 The goal of this project is to build a machine learning model that can accurately classify messages (such as emails or SMS) as either "spam" or "ham" (not spam). The classification is based on the content of the messages, and the model is trained to identify patterns that distinguish spam from non-spam messages.
+
+Spam detection is a critical task in natural language processing (NLP) and is widely used in email filtering systems, SMS filtering, and other communication platforms. In this project, the Multinomial Naive Bayes (MultinomialNB) algorithm, a popular probabilistic classifier, is employed to perform text classification. The project involves data preprocessing, feature extraction, model training, and evaluation to achieve a high level of accuracy in distinguishing between spam and ham messages.
